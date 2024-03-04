@@ -11,10 +11,17 @@ Clone the repository:
    ```
 
 1. Navigate to the repository:
-   cd Shubhamverma-bioinfo
+
+   ```bash
+   cd nextflow-line-counter
+   ```
 
 2. Run the Nextflow script with your file path:
 
+   ```bash 
    nextflow run main.nf --file_path /path/to/your/file.txt
    
    Replace /path/to/your/file.txt with the path to the file you want to analyze.
+   ```
+
+
