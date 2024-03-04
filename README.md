@@ -20,8 +20,7 @@ Clone the repository:
 
    ```bash 
    nextflow run main.nf --file_path /path/to/your/file.txt
-   
-   Replace /path/to/your/file.txt with the path to the file you want to analyze.
+   ## Replace /path/to/your/file.txt with the path to the file you want to analyze.
    ```
 
 
